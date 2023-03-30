@@ -1,0 +1,30 @@
+C:\Users\44850641822\Desktop\Exercicios c#\bin\Debug\net7.0\Exercicios c#.exe
+C:\Users\44850641822\Desktop\Exercicios c#\bin\Debug\net7.0\Exercicios c#.deps.json
+C:\Users\44850641822\Desktop\Exercicios c#\bin\Debug\net7.0\Exercicios c#.runtimeconfig.json
+C:\Users\44850641822\Desktop\Exercicios c#\bin\Debug\net7.0\Exercicios c#.dll
+C:\Users\44850641822\Desktop\Exercicios c#\bin\Debug\net7.0\Exercicios c#.pdb
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\Exercicios c#.csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\Exercicios c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\Exercicios c#.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\Exercicios c#.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\Exercicios c#.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\Exercicios c#.dll
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\refint\Exercicios c#.dll
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\Exercicios c#.pdb
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\Exercicios c#.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\Exercicios c#\obj\Debug\net7.0\ref\Exercicios c#.dll
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\bin\Debug\net7.0\Exercicios c#.exe
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\bin\Debug\net7.0\Exercicios c#.deps.json
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\bin\Debug\net7.0\Exercicios c#.runtimeconfig.json
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\bin\Debug\net7.0\Exercicios c#.dll
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\bin\Debug\net7.0\Exercicios c#.pdb
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\Exercicios c#.csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\Exercicios c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\Exercicios c#.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\Exercicios c#.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\Exercicios c#.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\Exercicios c#.dll
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\refint\Exercicios c#.dll
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\Exercicios c#.pdb
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\Exercicios c#.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\Exercicios c#\Exercicio 1\obj\Debug\net7.0\ref\Exercicios c#.dll
