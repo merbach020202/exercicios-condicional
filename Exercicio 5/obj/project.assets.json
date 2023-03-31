@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\Exercicios c#\\Exercicio 5\\Exercicio 5.csproj",
+      "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\Exercicios condicional\\Exercicio 5\\Exercicio 5.csproj",
       "projectName": "Exercicio 5",
-      "projectPath": "C:\\Users\\44850641822\\Desktop\\Exercicios c#\\Exercicio 5\\Exercicio 5.csproj",
+      "projectPath": "C:\\Users\\44850641822\\Desktop\\Exercicios condicional\\Exercicio 5\\Exercicio 5.csproj",
       "packagesPath": "C:\\Users\\44850641822\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44850641822\\Desktop\\Exercicios c#\\Exercicio 5\\obj\\",
+      "outputPath": "C:\\Users\\44850641822\\Desktop\\Exercicios condicional\\Exercicio 5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44850641822\\AppData\\Roaming\\NuGet\\NuGet.Config",
